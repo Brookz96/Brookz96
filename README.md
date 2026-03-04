@@ -1,4 +1,4 @@
-# Hi 👋 I'm Brookz96
+# Halooo worlddddd
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Learning+Rust+without+crying;It+worked+yesterday;Ngoding+aja+dulu&center=true&width=650&height=45)
 
