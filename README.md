@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Just+pretending+to+know+what+I'm+doing;It+compiled+first+try+wait+what;Please+don't+look+at+my+code;Currently+debugging+my+entire+existence&center=true&width=600&height=30" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=just+pretending+to+know+what+I'm+doing;it+compiled+first+try+wait+what;please+don't+look+at+my+code;currently+debugging+my+entire+existence&center=true&width=600&height=30" />
 
   <br><br>
 
